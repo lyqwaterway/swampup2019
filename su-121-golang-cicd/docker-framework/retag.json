@@ -1,0 +1,7 @@
+{
+  "targetRepo" : "TARGETREPO",
+  "dockerRepository" : "docker-go-framework",
+  "tag" : "@",
+  "targetTag" : "latest",
+  "copy": true
+}
